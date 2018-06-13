@@ -4,6 +4,5 @@
   "hubot-pugme",
   "hubot-maps",
   "hubot-rules",
-  "hubot-shipit",
-  "hubot-auth"
+  "hubot-shipit"
 ]
